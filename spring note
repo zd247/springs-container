@@ -1,0 +1,2 @@
++ creating maven based web app using cmd:
+mvn archetype:generate -DgroupId=com.companyname.simpleweb -DartifactId=simple-webapp -Dpackage=com.companyname.projectname -Dversion=1.0-SNAPSHOT
